@@ -1,0 +1,20 @@
+body{
+     color: beige;
+    background-size: cover;
+    background-image: url("/home/akib_a3/codpro/download.jpeg");
+}
+button{
+    border: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    width: 200px;
+    background-color: red;
+    font-weight: 10px;
+    margin-bottom: 10px;
+
+
+}
+#save-btn{
+    background-color: green;
+}

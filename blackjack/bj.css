@@ -1,0 +1,26 @@
+
+h1{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    color: white;
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("a.jpg");
+    text-align: center;
+}
+#message-el{
+
+
+
+}
+button{
+    border: none;
+    border-radius: 20px;
+    background-color: goldenrod;
+    font-size: x-large;
+    margin-bottom:  4px;
+    
+
+}
